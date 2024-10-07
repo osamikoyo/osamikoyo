@@ -1,6 +1,7 @@
 # Osamikoyo
     I`m golang developer, but i know a lot of important technology.
     And i sometimes lern react.
+<img src="https://komarev.com/ghpvc/?osamikoyo&style=flat-square&color=blue" alt=""/>
 ## Such us
     Docker
     Kafka
