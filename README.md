@@ -1,5 +1,5 @@
 # Osamikoyo 🈵
-![](https://i.pinimg.com/originals/52/fa/42/52fa429fb7476a8546633d2d673ec510.gif)
+![]([https://i.pinimg.com/originals/52/fa/42/52fa429fb7476a8546633d2d673ec510.gif](https://media1.tenor.com/m/pQ9jr5TqhUEAAAAd/mash-mash-burnedead.gif))
 ### I`m golang developer, but i know a lot of important technology.
 ### And i sometimes lern react.
 # Stack
