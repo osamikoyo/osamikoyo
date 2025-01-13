@@ -14,7 +14,7 @@ i love cats and Go very much
 ![](https://github-readme-stats.vercel.app/api?username=osamikoyo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osamikoyo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamikoyo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![]([https://media1.tenor.com/m/fECMwsFrW_YAAAAd/anime-boy.gif](https://i.pinimg.com/originals/59/33/29/593329346f05b3c99842e1675e27a632.gif))
+![](https://i.pinimg.com/originals/59/33/29/593329346f05b3c99842e1675e27a632.gif)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
