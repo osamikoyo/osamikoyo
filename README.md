@@ -7,6 +7,8 @@ i love cats and Go very much
 
 # ☯️ GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osamikoyo&theme=dark&hide_border=true)
+[![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=osamikoyo)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=osamikoyo&icon=0&color=12)](https://visitcount.itsvg.in)
 
