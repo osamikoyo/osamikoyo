@@ -5,9 +5,6 @@
 #  🌑 About Me:
 i love cats and Go very much
 
-# ☯️ GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=osamikoyo&theme=dark&hide_border=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=osamikoyo&icon=0&color=12)](https://visitcount.itsvg.in)
 
