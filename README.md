@@ -1,4 +1,4 @@
-![Welcome](https://vaxerski.xyz/github/TopGif.gif)
+![Welcome](https://tenor.com/bt7q8.gif)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
 
