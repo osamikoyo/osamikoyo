@@ -1,5 +1,3 @@
-![w](https://media1.tenor.com/m/Z--n62lJzM4AAAAC/john-travolta-dancing.gif)
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
 
 # What is GOTHAM?
