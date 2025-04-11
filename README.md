@@ -15,7 +15,7 @@ this is a collection of technologies for modern web development, without huge fr
 I do not like to code in vscode. 
 Helix or Neovim is much better.
 * ### OS
-I use Ubuntu 24.04, there are plans to switch to Cashy os or Aeros os(when will be release).
+I use CashyOs, there are plans to switch to Aeros os(when will be release).
 * ### Code style
 I like GOTHAM stack and try to use domain-driven-design.
 * ### Use (very often)
