@@ -1,31 +1,27 @@
+![](https://media1.tenor.com/m/NPyHBRw-y5YAAAAC/kishimoto-cecil-komatsu-nana.gif)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
 
-# What is GOTHAM?
-this is a collection of technologies for modern web development, without huge frontend frameworks, but with convenience and convenience.
-
-* [GO](https://go.dev/)
-* [Templ](https://templ.guide/)
-* [Tailwindcss](https://tailwindcss.com/)
-* [Bun](https://bun.sh/)
-* [Htmx](https://htmx.org/)
-* [MariaDB](https://mariadb.org/)
-
 # About Me:
-* ### [Helix](https://helix-editor.com/) user
+
+## GOTHAM stack user
+* ### [template](https://github.com/osamikoyo/GOTHAM-template)
+
+## Stats:
+![Osami's stats](https://github-readme-stats.vercel.app/api?username=osamikoyo&show_icons=true&theme=synthwave)
+* ### [Neovim](https://neovim.io/) user
 I do not like to code in vscode. 
 Helix or Neovim is much better.
-* ### OS
-I use CashyOs, there are plans to switch to Aeros os(when will be release).
 * ### Code style
 I like GOTHAM stack and try to use domain-driven-design.
-* ### Use (very often)
+* ### Use 
 * [Gorm](https://gorm.io/)
 * [Flamingo](https://www.flamingo.me/)
 * [Zap](https://github.com/uber-go/zap)
 * [gRPC](https://grpc.io/)
+* [RabbitMQ](https://www.rabbitmq.com/)
 * ### Langs
-I prefer go, but still like functional paradigm and C
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamikoyo&layout=compact)
 
 # Work on:
 * ### [Kacura](https://github.com/Koyo-os/Kacura), very cool(in future) distributed notify system
