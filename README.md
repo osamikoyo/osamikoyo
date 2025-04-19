@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
+
+![](https://camo.githubusercontent.com/d7d9f550bdc257fb6a47323ffc0f50c067481a616f1f0e5dd468d3acd2cec4c7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966)
 
 # About Me:
 
