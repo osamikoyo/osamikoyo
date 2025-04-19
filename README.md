@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
 
-
+![](https://i.pinimg.com/originals/f6/e3/ac/f6e3accfa8d4e4b275674e606ac9b435.gif)
 # About Me:
 
 **GOTHAM stack user**
