@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
 
+
 # About Me:
 
 **GOTHAM stack user**
@@ -23,9 +24,11 @@ I am a young go developer. I like to develop distributed systems, console utilit
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=osamikoyo&theme=gruvbox&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamikoyo&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=osamikoyo&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/left.webp" width="150" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&theme=gruvbox&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/right.webp" width="150" height="150"/>
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=osamikoyo&limit=4&theme=gruvbox&combine_all_yearly_contributions=false)
