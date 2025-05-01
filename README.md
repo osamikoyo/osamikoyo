@@ -29,6 +29,3 @@ I am a young go developer. I like to develop distributed systems, console utilit
   <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&theme=gruvbox&hide_border=true"/>
   <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/right.webp" width="150" height="150"/>
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=osamikoyo&limit=4&theme=gruvbox&combine_all_yearly_contributions=false)
