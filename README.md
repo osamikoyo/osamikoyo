@@ -26,6 +26,6 @@ I am a young go developer. I like to develop distributed systems, console utilit
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/left.webp" width="150" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&theme=gruvbox&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&hide_border=true"/>
   <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/right.webp" width="150" height="150"/>
 </div>
