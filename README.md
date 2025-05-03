@@ -1,14 +1,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Osamikoyo" /> </p>
 
 
-# About Me:
+# WHO_AM_I:
 
 **GOTHAM stack user**
 * ### [template](https://github.com/osamikoyo/GOTHAM-template)
 
 I am a young go developer. I like to develop distributed systems, console utilities, and so on. Go is not the only language I know, there are also programming languages of the functional paradigm in my stack, I believe that they are the future.
 
-# 💻 Tech Stack:
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/left.webp" width="150" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/right.webp" width="150" height="150"/>
+</div>
+
+
+# My Stack:
 
 ### **Languages**
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -22,10 +30,3 @@ I am a young go developer. I like to develop distributed systems, console utilit
 ### **Databases**
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/left.webp" width="150" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&hide_border=true"/>
-  <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/right.webp" width="150" height="150"/>
-</div>
