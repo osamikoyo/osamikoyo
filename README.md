@@ -16,7 +16,7 @@ I am a young go developer. I like to develop distributed systems, console utilit
 </div>
 
 
-![Snake animation](https://github.com/ваш-ник/ваш-ник/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/osamikoyo/osamikoyo/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ![](https://camo.githubusercontent.com/821053e18f77d32e4a8b1db5bbf8eb6ffa49b7a1897bd23cb5d7cfefc60a317c/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67)
