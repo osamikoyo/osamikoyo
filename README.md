@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=ab5052&size=24&style=flat" alt="Osamikoyo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=osamikoyo&label=Profile%20views&color=08457e&size=24&style=flat" alt="Osamikoyo" /> </p>
 
 
 # WHO_AM_I:
