@@ -11,10 +11,10 @@ I am a young go developer. I like to develop distributed systems, console utilit
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/left.webp" width="150" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=osamikoyo&theme=solarized-light&hide_border=true"/>
   <img src="https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/right.webp" width="150" height="150"/>
-</div>
 
----
-![](https://camo.githubusercontent.com/821053e18f77d32e4a8b1db5bbf8eb6ffa49b7a1897bd23cb5d7cfefc60a317c/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67)
+  ---
+![](https://media1.tenor.com/m/o-0LaJK3qWcAAAAd/yamada-ryou-yamada-ryo.gif)
+</div>
 
