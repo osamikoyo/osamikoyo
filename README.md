@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/-IJCJhbIi-YAAAAC/samurai-japan.gif" alt="Samurai GIF">
 
 ### Osami
 
